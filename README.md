@@ -1,2 +1,2 @@
-# byte-stalker
+# Byte Stalker
 WIP:Simple port scanner
