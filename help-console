@@ -1,0 +1,23 @@
+.-. .-. . . .-. .-. .   .-.   . . .-. .   .-.
+|   | | |\| `-. | | |   |-    |-| |-  |   |-'
+`-' `-' ' ` `-' `-' `-' `-'   ' ` `-' `-' '
+
+prime commands:
+    get [args] - get information about something
+    help [util] - get help information, also you can use 'get help'
+    net [args] - work with network module
+    clear - clear screen
+
+get args:
+    os - name of os platform
+    help - see help in prime commands
+
+net args:
+    info - get hostname and ip
+    host - get hostname
+    ip - get host ip
+    port-scanner <host> [args] - ports scanner, about args use 'help port-scanner'
+
+note:
+    [...] - optional arg
+    <...> - required arg

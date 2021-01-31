@@ -1,0 +1,15 @@
+___  ____ ____ ___    ____ ____ ____ _  _ _  _ ____ ____
+|__] |  | |__/  |     [__  |    |__| |\ | |\ | |___ |__/
+|    |__| |  \  |     ___] |___ |  | | \| | \| |___ |  \
+
+Port scanner of something host
+
+command: net port-scanner <host> [args]
+
+default: scan ports in range from 1 to 1024
+
+args:
+    with port <port> - scan specific port: 'net port-scanner host.com with port 80'
+    with ports <...ports> - scan list of ports: 'net port-scanner host.com with ports 80 1 8080 1024'
+    in range from <left-limit> to <right-limit> - i think no explanation:
+                                                        'net port-scanner host.com in range from 1 to 1024'
