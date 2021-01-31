@@ -1,5 +1,5 @@
 # Byte Stalker
-WIP:Simple port scanner
+Simple port scanner
 
 ```
 ______       _       _____ _        _ _             
